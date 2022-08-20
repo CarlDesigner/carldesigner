@@ -6,7 +6,7 @@ Además, exploro el maravilloso mundo del diseño tratando siempre de construir 
 
 - 👯 Soy freelancer y estoy buscando colaborar y construir buenos proyectos.
 
-- 📫 puedes enviarme un correo electrónico a [carlos.fajardo.dev@gmail.com](mailto:carlos.fajardo.dev@gmail.com) o enviarme un dm en [Twitter](https://twitter.com/CARLOSF10048895)
+- 📫 puedes enviarme un correo electrónico a [carlos.fajardo.dev@gmail.com](mailto:carlos.fajardo.dev@gmail.com) o enviarme un dm en [Twitter](https://twitter.com/__carldesigner)
 
 - ⚡ Dato curioso: como mucho, muchisimo :pizza::hamburger::fries:
 
