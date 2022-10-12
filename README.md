@@ -1,4 +1,4 @@
-## Hola extraño, soy Carlos 👋
+# Hola extraño, soy Carlos 👋
 
 Soy un desarrollador de software en formación, actualmente estudiante de la Universidad Tecnológica de Pereira, Tripulante del programa Misión TIC 2022 y autodidacta la mayor parte del tiempo, Construyo soluciones que incrementan la tasa de venta y el poder de alcance para pequeños y medianos negocios.
 
