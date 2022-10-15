@@ -4,9 +4,9 @@ Soy un desarrollador de software en formación, actualmente estudiante de la Uni
 
 Además, exploro el maravilloso mundo del diseño tratando siempre de construir interfaces web elegantes e impactantes implementando los conceptos de UX (experiencia de usuario) y UI (interfaz de usuario) para satisfacer siempre a mis clientes.
 
-- 👯 Soy freelancer y estoy buscando colaborar y construir buenos proyectos.
+- 👯 Soy Freelancer y estoy buscando colaborar y construir buenos proyectos.
 
-- 📫 puedes enviarme un correo electrónico a [carlos.fajardo.dev@gmail.com](mailto:carlos.fajardo.dev@gmail.com) o enviarme un dm en [Twitter](https://twitter.com/__carldesigner)
+- 📫 Puedes enviarme un correo electrónico a [carlos.fajardo.dev@gmail.com](mailto:carlos.fajardo.dev@gmail.com) o enviarme un dm en [Twitter](https://twitter.com/__carldesigner)
 
 - ⚡ Dato curioso: como mucho, muchisimo :pizza::hamburger::fries:
 
