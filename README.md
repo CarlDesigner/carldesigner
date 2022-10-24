@@ -15,9 +15,10 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 ## Skills
 
-### Languages & Tecnologies
+<h3 align="left">Languages and Tools:</h3
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,7 +47,8 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/carldesigner"><img src="https://github-readme-stats.vercel.app/api?username=carldesigner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="carldesigner's GitHub stats" /></a>
-<a href="http://www.github.com/carldesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carldesigner&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carldesigner&show_icons=true&locale=en" alt="carldesigner" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carldesigner&" alt="carldesigner" /></p>
 
 <a href="http://www.github.com/carldesigner"><img src="https://activity-graph.herokuapp.com/graph?username=carldesigner&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
