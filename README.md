@@ -15,7 +15,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 ## Skills
 
-<h3 align="left">Languages and Tools:</h3
+<h3 align="left">Languages and Tools</h3
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -45,16 +45,12 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/carlos-fajardo-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/__carldesigner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/carlos-fajardo-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/__carldesigner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/CarlDesigner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
 ## Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlDesigner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> &nbsp;
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlDesigner&layout=compact&langs_count=8&theme=dark"/>
-
 
 <a href="http://www.github.com/CarlDesigner"><img src="https://activity-graph.herokuapp.com/graph?username=CarlDesigner&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
