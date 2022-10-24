@@ -53,7 +53,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlDesigner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> &nbsp; &nbsp;
+<a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlDesigner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> &nbsp;
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlDesigner&layout=compact&langs_count=8&theme=dark"/>
 
 
