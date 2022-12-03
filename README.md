@@ -48,9 +48,3 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 <a href="https://www.linkedin.com/in/carlos-fajardo-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/__carldesigner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/CarlDesigner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
-## Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/CarlDesigner"><img src="https://activity-graph.herokuapp.com/graph?username=CarlDesigner&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
