@@ -59,9 +59,10 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 <br/>  
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=CarlDesigner&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlDesigner&hide_border=true&layout=compact" align="right" />  
+## Github Stats
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-stats.vercel.app/api?username=CarlDesigner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CarlDesigner's GitHub stats" /></a> <a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-stats.vercel.app/api?username=CarlDesigner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CarlDesigner's GitHub stats" /></a>
