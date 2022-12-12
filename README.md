@@ -63,6 +63,5 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 ## Github Stats
 
-<div>
-<a align="left" href="http://www.github.com/CarlDesigner"><img src="https://github-readme-stats.vercel.app/api?username=CarlDesigner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CarlDesigner's GitHub stats"/></a><a align="right" href="http://www.github.com/CarlDesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlDesigner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>  
+
+<a align="left" href="http://www.github.com/CarlDesigner"><img src="https://github-readme-stats.vercel.app/api?username=CarlDesigner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CarlDesigner's GitHub stats"/></a><a align="right" href="http://www.github.com/CarlDesigner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlDesigner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
