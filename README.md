@@ -1,8 +1,10 @@
 # Hola extraño, soy Carlos ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Soy un desarrollador de software en formación, actualmente estudiante de la Universidad Tecnológica de Pereira, Tripulante del programa Misión TIC 2022 y autodidacta la mayor parte del tiempo, Construyo soluciones que incrementan la tasa de venta y el poder de alcance para pequeños y medianos negocios.
+Empecé mi trayectoria profesional como operador de medios tecnológicos. Actualmente, Soy un desarrollador de software, +2 años de experiencia en el desarrollo de aplicaciones web. Mi objetivo es utilizar mis habilidades y conocimientos para crear aplicaciones de alta calidad que sean útiles para los usuarios. Actualmente me especializo en el desarrollo de aplicaciones web utilizando JavaScript, Html5, Css3, pero también tengo experiencia en el uso de otras tecnologías como React js, Bootstrap, Python, Wordpress, Firebase, Git y GitHub, Figma y Bases de datos SQL y NoSQL.
 
-Además, exploro el maravilloso mundo del diseño tratando siempre de construir interfaces web elegantes e impactantes implementando los conceptos de UX (experiencia de usuario) y UI (interfaz de usuario) para satisfacer siempre a mis clientes.
+En mi tiempo libre, me gusta participar en proyectos personales y experimentar con nuevas tecnologías. También me gusta colaborar con otros desarrolladores y aprender de ellos. Estoy siempre buscando nuevas oportunidades de aprendizaje y crecimiento profesional.
+
+Estoy comprometido a ofrecer un servicio excepcional y a entregar proyectos a tiempo y con alta calidad. Si estás interesado en trabajar conmigo o tienes alguna pregunta sobre mi experiencia, no dudes en ponerte en contacto conmigo. ¡Estaré encantado de ayudarte!
 
 - 🧑‍💻 Soy Freelancer y estoy buscando colaborar y construir buenos proyectos.
 
