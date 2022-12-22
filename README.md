@@ -60,9 +60,9 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 <div align="center">
 
-![](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
-![](https://images.credly.com/size/110x110/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)
-![](https://images.credly.com/size/110x110/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)
+![](https://images.credly.com/size/220x220/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
+![](https://images.credly.com/size/220x220/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)
+![](https://images.credly.com/size/220x220/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)
 
 </div>
 
