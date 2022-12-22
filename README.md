@@ -71,6 +71,8 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 </a>  
 </div>
 
+![Insignia](https://www.credly.com/badges/18f2ea14-2238-4d4a-a7c0-17d4c6c8ab89/public_url)
+
 ## Github Stats
 
 <div align="center">  
