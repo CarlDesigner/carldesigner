@@ -60,12 +60,12 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 <div align="center">
 
-![](https://images.credly.com/size/160x160/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
-![](https://images.credly.com/size/160x160/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)
-![](https://images.credly.com/size/160x160/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)
-![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)
-![](https://images.credly.com/size/160x160/images/590b167d-83f8-4a54-b83d-fcb9b5200c88/Customer_Engagement-_Communication_and_Personality_Dynamics.png)
-![](https://images.credly.com/size/160x160/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png)
+![](https://images.credly.com/size/200x200/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
+![](https://images.credly.com/size/200x200/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)
+![](https://images.credly.com/size/200x200/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)
+![](https://images.credly.com/size/200x200/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)
+![](https://images.credly.com/size/200x200/images/590b167d-83f8-4a54-b83d-fcb9b5200c88/Customer_Engagement-_Communication_and_Personality_Dynamics.png)
+![](https://images.credly.com/size/200x200/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png)
 
 </div>
 
