@@ -8,7 +8,7 @@ Estoy comprometido a ofrecer un servicio excepcional y a entregar proyectos a ti
 
 - 🧑‍💻 Soy Freelancer y estoy buscando colaborar y construir buenos proyectos.
 
-- 📫 Puedes enviarme un correo electrónico a [carlos.fajardo.dev@gmail.com](mailto:carlos.fajardo.dev@gmail.com) o enviarme un dm en [Twitter](https://twitter.com/__carldesigner)
+- 📫 Puedes enviarme un [Mail](mailto:carlos.fajardo.dev@gmail.com) o un dm en [Twitter](https://twitter.com/__carldesigner)
 
 - ⚡ Dato curioso: como mucho, muchisimo :pizza::hamburger::fries:
 
