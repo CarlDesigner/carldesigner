@@ -94,6 +94,6 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 ## Github Stats
 
-<!--<div align="center">  
+<div align="center">  
 <a href="http://www.github.com/CarlDesigner"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CarlDesigner&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
