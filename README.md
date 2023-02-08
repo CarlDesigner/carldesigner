@@ -71,7 +71,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 ![](https://images.credly.com/size/160x160/images/cdb54868-2b79-4f35-8051-ba46f835099f/Entrepreneurship_Marketing_Essentials_.png)
   
 ![](https://images.credly.com/size/160x160/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
-![](https://images.credly.com/size/160x160/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer)
+![](https://images.credly.com/size/160x160/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)
 ![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)
 
 </div>
