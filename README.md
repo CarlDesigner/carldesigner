@@ -73,9 +73,16 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 ![](https://images.credly.com/size/160x160/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)
 ![](https://images.credly.com/size/160x160/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)
 ![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)
-
+![](https://learn.microsoft.com/es-es/training/achievements/learn.beginner-python.trophy?username=CarlosEnriqueFajardoPallares-3122)
 </div>
 
+## My Microsoft Learn Certificates
+
+<div align="center">
+ 
+![](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FPython%20para%20principiantes.jpg?alt=media&token=27f8535d-ec0f-42be-bd02-29be02e7af2a)
+</div>
+  
 ## Connect with me
 
 <div align="center">
