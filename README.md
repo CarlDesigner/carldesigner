@@ -81,7 +81,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 <div align="center">
   
 [![Micro](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FPython%20para%20principiantes.jpg?alt=media&token=20588d43-966c-49d3-905f-5297d199a52a)](https://learn.microsoft.com/es-es/training/achievements/learn.beginner-python.trophy?username=CarlosEnriqueFajardoPallares-3122)
-[![Micro](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FPython%20para%20principiantes.jpg?alt=media&token=20588d43-966c-49d3-905f-5297d199a52a)](https://learn.microsoft.com/es-es/training/achievements/learn.student-evangelism.web-development-101.trophy?username=CarlosEnriqueFajardoPallares-3122)
+[![Micro](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FDesarrollo%20web%20para%20principiantes.jpg?alt=media&token=27941a5b-23be-4da1-adeb-b2bd0b18af85)](https://learn.microsoft.com/es-es/training/achievements/learn.student-evangelism.web-development-101.trophy?username=CarlosEnriqueFajardoPallares-3122)
   
 </div>
 
