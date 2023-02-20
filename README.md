@@ -66,7 +66,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
 
 <div align="center">
   
-![](https://images.credly.com/size/160x160/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)
+[![Ciber Security](https://images.credly.com/size/160x160/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/1ff5ae2f-f9f6-47b8-8f5e-782ebb4fb88b/public_url)
 ![](https://images.credly.com/size/160x160/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)
 ![](https://images.credly.com/size/160x160/images/cdb54868-2b79-4f35-8051-ba46f835099f/Entrepreneurship_Marketing_Essentials_.png)
   
