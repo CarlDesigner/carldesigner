@@ -72,7 +72,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
   
 [![](https://images.credly.com/size/160x160/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](https://www.credly.com/badges/18f2ea14-2238-4d4a-a7c0-17d4c6c8ab89/public_url)
 [![](https://images.credly.com/size/160x160/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/6ee4c4fb-0fd6-4408-ad82-8de8acdf4c54/public_url)
-[![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)]()
+[![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)](https://www.credly.com/badges/d742b5db-3f25-4a06-adaa-9ecd810ed385/public_url)
 </div>
 
 ## My Microsoft Learn Certificates
