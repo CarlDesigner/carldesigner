@@ -12,7 +12,7 @@ Estoy comprometido a ofrecer un servicio excepcional y a entregar proyectos a ti
 
 - ⚡ Dato curioso: como mucho, muchisimo :pizza::hamburger::fries:
 
-Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrada siempre está abierta. ¿Tienes una pregunta? o solo quieres decir hola? siéntete libre de enviarme un DM.🤗  
+Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrada siempre está abierta. ¿Tienes una pregunta? o ¿simplemente quieres decir hola? siéntete libre de enviarme un DM.🤗  
   
 <br/>  
 
