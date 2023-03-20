@@ -61,6 +61,7 @@ Actualmente estoy buscando nuevas oportunidades, por lo que mi bandeja de entrad
   
   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![IBM Skills Build](https://img.shields.io/badge/IBM_skillsbuild-258ffa?style=for-the-badge&logo=ibm_skillsbuild&logoColor=white)
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
   
