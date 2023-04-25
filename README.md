@@ -1,5 +1,4 @@
-# Hola extraño, soy Carlos ![](https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif)
-
+# Hola extraño, soy Carlos <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" width="100"/>
   
 Empecé mi trayectoria profesional como operador de medios tecnológicos. Actualmente, Soy un desarrollador de software Freelancer, con un poco mas de 2 años de experiencia en el desarrollo de aplicaciones web. Mi objetivo es utilizar mis habilidades y conocimientos para crear aplicaciones de alta calidad que sean útiles para los usuarios. Actualmente me especializo en el desarrollo de aplicaciones web utilizando JavaScript, Html5, Css3, pero también tengo experiencia en el uso de otras tecnologías como React js, Astro, Hugo, Gatsby, Bootstrap, Python, Wordpress, Firebase, Git y GitHub, Figma y Bases de datos SQL y NoSQL.
 
