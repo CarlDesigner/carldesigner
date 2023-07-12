@@ -86,6 +86,7 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 <div align="center">
   
 [![Micro](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FPython%20para%20principiantes.jpg?alt=media&token=20588d43-966c-49d3-905f-5297d199a52a)](https://learn.microsoft.com/es-es/training/achievements/learn.beginner-python.trophy?username=CarlosEnriqueFajardoPallares-3122)
+[![Micro](https://firebasestorage.googleapis.com/v0/b/imagesbank-78639.appspot.com/o/MicrosoftLearng%2FDesarrollo%20web%20para%20principiantes.jpg?alt=media&token=c90720a9-09f1-4b34-a8f6-695e2a31f6b4)](https://learn.microsoft.com/es-es/training/achievements/learn.student-evangelism.web-development-101.trophy?username=CarlosEnriqueFajardoPallares-3122&sharingId=2B1A59650FBD9805)
 
   
 </div>
