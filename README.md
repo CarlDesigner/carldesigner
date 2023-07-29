@@ -1,4 +1,3 @@
-# Hola Extraño, soy Carlos <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" width="120" style="vertical-align:middle;margin:0px 0px 0px"/>
 Hola Extraño, soy Carlos <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" width="120" style="vertical-align:middle;margin:0px 0px 0px"/>
 
   
