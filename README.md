@@ -72,15 +72,13 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 
 <div align="center">
   
-[![Ciber Security](https://images.credly.com/size/160x160/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/1ff5ae2f-f9f6-47b8-8f5e-782ebb4fb88b/public_url)
-[![Digital World](https://images.credly.com/size/160x160/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](https://www.credly.com/badges/9113b9a5-a97f-420f-ac5b-bdb05e0fc59f/public_url)
-[![](https://images.credly.com/size/160x160/images/cdb54868-2b79-4f35-8051-ba46f835099f/Entrepreneurship_Marketing_Essentials_.png)](https://www.credly.com/badges/b75e6db9-a352-4330-b8f4-4b787bf7a431/public_url)
+[![Web Development Fundamentals](https://images.credly.com/size/200x200/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](https://www.credly.com/badges/00b5f3ac-4710-45c6-9a65-a7d2a23b0531/public_url)
+[![Cybersecurity Fundamentals](https://images.credly.com/size/200x200/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/1ff5ae2f-f9f6-47b8-8f5e-782ebb4fb88b/public_url)
+[![Entrepreneurship Marketing Essentials](https://images.credly.com/size/200x200/images/cdb54868-2b79-4f35-8051-ba46f835099f/Entrepreneurship_Marketing_Essentials_.png)](https://www.credly.com/badges/b75e6db9-a352-4330-b8f4-4b787bf7a431/public_url)
   
-[![](https://images.credly.com/size/160x160/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](https://www.credly.com/badges/18f2ea14-2238-4d4a-a7c0-17d4c6c8ab89/public_url)
-[![](https://images.credly.com/size/160x160/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/6ee4c4fb-0fd6-4408-ad82-8de8acdf4c54/public_url)
-[![](https://images.credly.com/size/160x160/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)](https://www.credly.com/badges/d742b5db-3f25-4a06-adaa-9ecd810ed385/public_url)
-
-[![](https://images.credly.com/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](https://www.credly.com/badges/00b5f3ac-4710-45c6-9a65-a7d2a23b0531/public_url)
+[![Customer Engagement](https://images.credly.com/size/200x200/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)](https://www.credly.com/badges/d742b5db-3f25-4a06-adaa-9ecd810ed385/public_url)
+[![Explore Emerging Tech](https://images.credly.com/size/200x200/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](https://www.credly.com/badges/18f2ea14-2238-4d4a-a7c0-17d4c6c8ab89/public_url)
+[![Working in a Digital World](https://images.credly.com/size/200x200/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](https://www.credly.com/badges/9113b9a5-a97f-420f-ac5b-bdb05e0fc59f/public_url)
 </div>
 
 ## My Microsoft Learn Certificates
