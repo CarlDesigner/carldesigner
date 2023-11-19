@@ -49,10 +49,10 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 
 <div align="center">
   
-[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1699214349/ImagesGitHub/python_agw39w.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/F6FJAQXN?sharingId=2B1A59650FBD9805)
-[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1699214352/ImagesGitHub/controldeversiones_oersw7.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/FZQ5M52X?sharingId=2B1A59650FBD9805)
-[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1699214349/ImagesGitHub/desarrolloweb_hvlixg.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/ZM8M5W82?sharingId=2B1A59650FBD9805)
-[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1699214349/ImagesGitHub/creaciondepaginasweb_wlmn7a.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/BTE7UWED?sharingId=2B1A59650FBD9805)
+[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1700399729/ImagesGitHub/python_qsxvwo.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/F6FJAQXN?sharingId=2B1A59650FBD9805)
+[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1700399729/ImagesGitHub/controldeversiones_v6ybrr.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/FZQ5M52X?sharingId=2B1A59650FBD9805)
+[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1700399729/ImagesGitHub/desarrolloweb_btpp3l.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/ZM8M5W82?sharingId=2B1A59650FBD9805)
+[![Micro](https://res.cloudinary.com/do66lfayc/image/upload/v1700399729/ImagesGitHub/creaciondepaginasweb_e4rzue.jpg)](https://learn.microsoft.com/api/achievements/share/es-mx/CarlosEnriqueFajardoPallares-3122/BTE7UWED?sharingId=2B1A59650FBD9805)
 
   
 </div>
