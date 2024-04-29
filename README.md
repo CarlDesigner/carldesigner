@@ -43,6 +43,7 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 
 [![Explore Emerging Tech](https://images.credly.com/size/200x200/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](https://www.credly.com/badges/18f2ea14-2238-4d4a-a7c0-17d4c6c8ab89/public_url)
 [![Working in a Digital World](https://images.credly.com/size/200x200/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](https://www.credly.com/badges/9113b9a5-a97f-420f-ac5b-bdb05e0fc59f/public_url)
+[![Agil Explorer](https://images.credly.com/size/200x200/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/6ee4c4fb-0fd6-4408-ad82-8de8acdf4c54/public_url)
 </div>
 
 ## My Microsoft Learn Certificates
