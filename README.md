@@ -33,7 +33,7 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 </div>
 
 ## My IBM Badges
-<!---
+
 <div align="center">
   
 [![Web Development Fundamentals](https://images.credly.com/size/200x200/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](https://www.credly.com/badges/00b5f3ac-4710-45c6-9a65-a7d2a23b0531/public_url)
@@ -45,7 +45,7 @@ En este momento, estoy en búsqueda de nuevas oportunidades, lo que significa qu
 [![Working in a Digital World](https://images.credly.com/size/200x200/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](https://www.credly.com/badges/9113b9a5-a97f-420f-ac5b-bdb05e0fc59f/public_url)
 [![Agil Explorer](https://images.credly.com/size/200x200/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/6ee4c4fb-0fd6-4408-ad82-8de8acdf4c54/public_url)
 </div>
--->
+
 ## My Microsoft Learn Certificates
 
 <div align="center">
